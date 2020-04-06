@@ -1,2 +1,4 @@
 teste de envio de arquivo para o github
-Adicionado. - alteração realizada no github
+Resolvido conflito.
+Adicionado com sucesso . - alteração realizada no github
+
