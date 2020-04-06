@@ -1,2 +1,2 @@
-teste de envio de arquivo para o github
+testando de envio de arquivo para o github
 Adicionado com sucesso. - alteração realizada no github
